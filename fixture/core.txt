@@ -13,3 +13,9 @@ core record 11: value 73
 core record 12: value 80
 core record 13: value 87
 core record 14: value 94
+core record 15: value 101
+core record 16: value 108
+core record 17: value 115
+core record 18: value 122
+core record 19: value 129
+core record 20: value 136
