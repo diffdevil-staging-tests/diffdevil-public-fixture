@@ -1,0 +1,6 @@
+Synthetic notes fixture; no user or product data.
+notes record 1: value 3
+notes record 2: value 10
+notes record 3: value 17
+notes record 4: value 24
+notes record 5: value 31
