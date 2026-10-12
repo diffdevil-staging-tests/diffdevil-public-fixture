@@ -7,3 +7,7 @@ companion record 5: value 31
 companion record 6: value 38
 companion record 7: value 45
 companion record 8: value 52
+companion record 9: value 59
+companion record 10: value 66
+companion record 11: value 73
+companion record 12: value 80
