@@ -4,3 +4,6 @@ notes record 2: value 10
 notes record 3: value 17
 notes record 4: value 24
 notes record 5: value 31
+notes record 6: value 38
+notes record 7: value 45
+notes record 8: value 52
