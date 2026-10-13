@@ -11,3 +11,7 @@ companion record 9: value 59
 companion record 10: value 66
 companion record 11: value 73
 companion record 12: value 80
+companion record 13: value 87
+companion record 14: value 94
+companion record 15: value 101
+companion record 16: value 108

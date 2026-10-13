@@ -2,3 +2,8 @@ Synthetic core fixture; no user or product data.
 core record 1: value 3
 core record 2: value 10
 core record 3: value 17
+core record 4: value 24
+core record 5: value 31
+core record 6: value 38
+core record 7: value 45
+core record 8: value 52
